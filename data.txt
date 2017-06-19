@@ -1,6 +1,0 @@
-plato combinado 1: pollo, patata, pimiento
-plato combinado 2: lomo, huevo, patata, pimiento
-plato combinado 3: pechugas, huevo, patata, pimiento
-plato combinado 4: ternera, huevo, patata, pimiento
-plato combinado 5: asado variado, pimiento verde, pimiento rojo, pechuga pollo, ternera, lomo, patata
-plato combinado 6: asado completo, pimiento verde, pimiento rojo, pechuga pollo, ternera, lomo, morcilla, txistorra, patata
