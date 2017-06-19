@@ -1,0 +1,81 @@
+[
+  {
+    "name": "plato combinado 1",
+    "ingredients": [
+      "pollo",
+      "patata",
+      "pimiento"
+    ],
+    "cooking": [
+      "frito"
+    ]
+  },
+  {
+    "name": "plato combinado 2",
+    "ingredients": [
+      "lomo",
+      "huevo",
+      "patata",
+      "pimiento"
+    ],
+    "cooking": [
+      "frito"
+    ]
+  },
+  {
+    "name": "plato combinado 3",
+    "ingredients": [
+      "pechugas",
+      "huevo",
+      "patata",
+      "pimiento"
+    ],
+    "cooking": [
+      "frito"
+    ]
+  },
+  {
+    "name": "plato combinado 4",
+    "ingredients": [
+      "ternera",
+      "huevo",
+      "patata",
+      "pimiento"
+    ],
+    "cooking": [
+      "frito"
+    ]
+  },
+  {
+    "name": "plato combinado 5",
+    "ingredients": [
+      "asado variado",
+      "pimiento verde",
+      "pimiento rojo",
+      "pechuga pollo",
+      "ternera",
+      "lomo",
+      "patata"
+    ],
+    "cooking": [
+      "frito"
+    ]
+  },
+  {
+    "name": "plato combinado 6",
+    "ingredients": [
+      "asado completo",
+      "pimiento verde",
+      "pimiento rojo",
+      "pechuga pollo",
+      "ternera",
+      "lomo",
+      "morcilla",
+      "txistorra",
+      "patata"
+    ],
+    "cooking": [
+      "frito"
+    ]
+  }
+]
